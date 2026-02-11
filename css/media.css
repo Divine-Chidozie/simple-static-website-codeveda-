@@ -1,0 +1,17 @@
+@media screen and (max-width: 600px) {
+  .hero h1,
+  .about h1 {
+    font-size: 35px;
+  }
+  footer {
+    text-align: center;
+    margin-bottom: 10px;
+    max-width: 200px;
+  }
+
+  form {
+    max-width: 900px;
+    width: 80%;
+    margin: 0 auto;
+  }
+}
